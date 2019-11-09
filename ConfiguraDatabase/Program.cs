@@ -13,7 +13,7 @@ namespace ConfiguraDatabase
             Environment.SetEnvironmentVariable("porta", "4202");
             Environment.SetEnvironmentVariable("bancodados", "bancoAmbiente");
 
-            var configuracao = new Configuracaodb(FonteTipo.Arquivo);
+            var configuracao = Configuracaodb.GetInstance(FonteTipo.Arquivo);
 
             Console.WriteLine("Arquivo");
             Console.WriteLine(configuracao.BuscarConfiguracao());

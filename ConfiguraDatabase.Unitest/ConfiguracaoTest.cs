@@ -4,9 +4,9 @@ using Xunit;
 
 namespace ConfiguraDatabase.Unitest
 {
-    public class UnitTest1
+    public class ConfiguracaoTest
     {
-        public UnitTest1()
+        public ConfiguracaoTest()
         {
             Environment.SetEnvironmentVariable("host", "192.168.0.3");
             Environment.SetEnvironmentVariable("usuario", "usuarioAmbiente");
@@ -18,7 +18,7 @@ namespace ConfiguraDatabase.Unitest
         [Fact]
         public void TesteArquivo()
         {
-            var configuracao = new Configuracaodb(FonteTipo.Arquivo);
+            var configuracao = Configuracaodb.GetInstance(FonteTipo.Arquivo);
             Assert.Equal("{\"Host\":\"192.168.0.1\",\"Porta\":\"4200\",\"Usuario\":\"usuarioArquivo\",\"Senha\":\"senhaArquivo\",\"BancoDados\":\"bancoArquivo\"}", 
                 configuracao.BuscarConfiguracao());
         }
@@ -26,7 +26,7 @@ namespace ConfiguraDatabase.Unitest
         [Fact]
         public void TesteMensageria()
         {
-            var configuracao = new Configuracaodb(FonteTipo.Mensageria);
+            var configuracao = Configuracaodb.GetInstance(FonteTipo.Mensageria);
             Assert.Equal("{\"Host\":\"192.168.0.2\",\"Porta\":\"4201\",\"Usuario\":\"usuarioMensageria\",\"Senha\":\"senhaMensageria\",\"BancoDados\":\"bancodadosMensageria\"}", 
                 configuracao.BuscarConfiguracao());
         }
@@ -34,7 +34,7 @@ namespace ConfiguraDatabase.Unitest
         [Fact]
         public void TesteAmbiente()
         {
-            var configuracao = new Configuracaodb(FonteTipo.VariavelAmbiente);
+            var configuracao = Configuracaodb.GetInstance(FonteTipo.VariavelAmbiente);
             Assert.Equal("{\"Host\":\"192.168.0.3\",\"Porta\":\"4202\",\"Usuario\":\"usuarioAmbiente\",\"Senha\":\"senhaAmbiente\",\"BancoDados\":\"bancoAmbiente\"}", 
                 configuracao.BuscarConfiguracao());
         }

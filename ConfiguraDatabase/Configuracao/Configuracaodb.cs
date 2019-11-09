@@ -4,12 +4,25 @@ namespace ConfiguraDatabase.Configuracao
 {
     public class Configuracaodb
     {
-
+        private static Configuracaodb _instance;
         public FonteTipo FonteTipo { get; set; }
 
-        public Configuracaodb(FonteTipo fonteTipo)
+        private Configuracaodb(FonteTipo fonteTipo)
         {
             FonteTipo = fonteTipo;
+        }
+
+        public static Configuracaodb GetInstance(FonteTipo fonteTipo)
+        {
+            if (_instance == null)
+            {
+                _instance = new Configuracaodb(fonteTipo);
+            }
+            else
+            {
+                _instance.FonteTipo = fonteTipo;
+            }
+            return _instance;
         }
 
         public string BuscarConfiguracao()
