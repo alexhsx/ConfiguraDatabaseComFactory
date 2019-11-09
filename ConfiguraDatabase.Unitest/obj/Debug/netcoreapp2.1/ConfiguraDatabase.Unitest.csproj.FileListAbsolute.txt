@@ -1,0 +1,34 @@
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.deps.json
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.runtimeconfig.json
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.runtimeconfig.dev.json
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.pdb
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.pdb
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csprojAssemblyReference.cache
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csproj.CoreCompileInputs.cache
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.AssemblyInfoInputs.cache
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.AssemblyInfo.cs
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csproj.CopyComplete
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.dll
+C:\Users\ra00267335\Documents\DataBaseSetup\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.pdb
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.deps.json
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.runtimeconfig.json
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.runtimeconfig.dev.json
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.pdb
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\bin\Debug\netcoreapp2.1\ConfiguraDatabase.pdb
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csprojAssemblyReference.cache
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csproj.CoreCompileInputs.cache
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.AssemblyInfoInputs.cache
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.AssemblyInfo.cs
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.csproj.CopyComplete
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.dll
+C:\Users\ra00267335\Documents\Nova pasta\ConfiguraDatabaseComFactory\ConfiguraDatabase.Unitest\obj\Debug\netcoreapp2.1\ConfiguraDatabase.Unitest.pdb

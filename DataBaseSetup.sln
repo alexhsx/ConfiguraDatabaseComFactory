@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfiguraDatabase", "ConfiguraDatabase\ConfiguraDatabase.csproj", "{1A2DDF7B-00C5-4FF8-AA2A-61FAB2D563ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfiguraDatabase.Unitest", "ConfiguraDatabase.Unitest\ConfiguraDatabase.Unitest.csproj", "{FBAFBDE2-A6E2-42D0-B3A9-EBDB9200FE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2DDF7B-00C5-4FF8-AA2A-61FAB2D563ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2DDF7B-00C5-4FF8-AA2A-61FAB2D563ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2DDF7B-00C5-4FF8-AA2A-61FAB2D563ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2DDF7B-00C5-4FF8-AA2A-61FAB2D563ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBAFBDE2-A6E2-42D0-B3A9-EBDB9200FE0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBAFBDE2-A6E2-42D0-B3A9-EBDB9200FE0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBAFBDE2-A6E2-42D0-B3A9-EBDB9200FE0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBAFBDE2-A6E2-42D0-B3A9-EBDB9200FE0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2D3EF0-E691-49EC-BC3B-1845A6AC4E5F}
+	EndGlobalSection
+EndGlobal
