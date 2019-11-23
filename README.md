@@ -23,3 +23,5 @@ lista de objetos / mapas / records.
 
 Além disso, criar conexão com um banco de dados é uma tarefa custosa, então precisamos criar um pedaço de
 software que possa reutilizar uma conexão assim que ela não for mais necessária.
+
+Tag: Design patterns | Abstract Factory | Builder | Singleton
